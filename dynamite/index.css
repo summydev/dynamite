@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#image{
+    font-size: 25px;
+    font-weight: bold;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+ 
+}
+header div#navs{
+   
+    display: flex;   background-color: rgb(255, 255, 140);
+    padding: 50px 100px ;
+}
+header div#navs a{
+padding: 0 30px;
+}
+header div#image{
+    display: flex; 
+    padding: 50px 100px ;
+}
+.first-section{
+    display: flex;padding: 0px 0 0 100px;justify-content: space-between;
+ 
+}
+#first-section-info{
+    background-color: rgb(255, 255, 140);
+  
+}
+
+.first-section img{
+    
+    display: flex;   background-color: rgb(255, 255, 140);
+    padding: 0px  225px 0 0 ;
+}
+.achievement{
+    background-color: green;
+}
