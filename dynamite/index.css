@@ -39,4 +39,25 @@ header div#image{
 }
 .achievement{
     background-color: green;
+    padding: 40px 100px;
+}
+.activities{
+    display: flex;   padding: 50px 100px ;
+}
+.activities-info{
+    padding: 10px;
+}
+.activities-info img{
+    padding: 10px;
+}
+.activities h1{
+    font-size: 50;margin: 0;
+}
+.donation{
+    background-color: green;
+    padding: 40px 100px;
+    display: flex;
+}
+.donation h1{
+    font-size: 51;
 }
